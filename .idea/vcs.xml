@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Mongo Connections/Reactive Mongo Template/Reactive-API" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Mongo Connections/Synchronous Mongo Template/Synchronous-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mongo Connections/Reactive Mongo Repository/Reactive-API" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Mongo Connections/Reactive Mongo Template/Reactive-API" vcs="" />
   </component>
 </project>
